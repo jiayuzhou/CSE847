@@ -29,6 +29,21 @@ The grade will be calculated as follows:
 * Exam: 30% 
 * Class participation: 5% 
 
+Final grades will be assigned based on absolute percentage as follows:
+
+| Absolute percentage | Grade | 
+| ------------------- | :---- | 
+| [ 100, 90 ] | 4.0 | 
+| ( 90,  85 ] | 3.5 | 
+| ( 85,  80 ] | 3.0 | 
+| ( 80,  75 ] | 2.5 | 
+| ( 75,  70 ] | 2.0 | 
+| ( 70,  60 ] | 1.0 |
+| ( 60,   0 ] | 0.0 |
+
+where [ ] denotes inclusion and ( ) denotes exclusion. The instructor reserves the right to move the thresholds down (but not up) based on the distribution of final percentages.
+
+
 ### Homework
 *Lateness and Extensions*
 
