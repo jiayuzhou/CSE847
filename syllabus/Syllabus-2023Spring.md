@@ -9,6 +9,8 @@ Location: Holden Hall C131 (In Person, no online sessions)
 
 Office Hours: After each class. Additional discussions should be communicated in [Piazza](https://piazza.com/msu/spring2023/cse847) through public or private posts. 
 
+TA: Riya Thakore [[email](mailto:thakorer@msu.edu)]
+
 
 ## Course Description
 Machine Learning is concerned with computer programs that automatically improve their performance through experience (e.g., that learn to spot high-risk medical patients, recognize speech, classify text documents, detect credit card fraud, or drive autonomous robots). This course provides an in-depth understanding of machine learning and statistical pattern recognition techniques and their applications in biomedical informatics, computer vision, and other domains.
